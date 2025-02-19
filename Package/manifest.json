@@ -1,0 +1,10 @@
+﻿{
+  "name": "ControlTime",
+  "description": "A valheim mod that enables to fix the time of day, change duration of day/night cycle, disable rain and automatically skip nights",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Ujhik/ValheimMod-ControlTime",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.20.3"
+  ]
+}
