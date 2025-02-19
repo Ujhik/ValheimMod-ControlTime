@@ -32,3 +32,6 @@ For best results, install this mod on both the server and all clients to avoid t
 - [Thunderstore](https://valheim.thunderstore.io/package/Ujhik/ControlTime/)
 - [Github](https://github.com/Ujhik/ValheimMod-ControlTime)
 - Discord: You can ping me in the Jotunn discord: [Jötunn discord](https://discord.gg/DdUt6g7gyA)
+
+## Similar mods
+- [Time scale](https://www.nexusmods.com/valheim/mods/995?tab=posts)
